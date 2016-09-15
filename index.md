@@ -9,13 +9,13 @@ categories: [Android]
 
 ## Android学习
 
-[我的安卓学习之旅](http://sunnygarden.top/2016-01-21-get-started-android-1/)
+[我的安卓学习之旅](http://sunnygarden.top/Other/2016-01-21-get-started-android-1/)
 
 [Android开源项目推荐之「网络请求哪家强」](http://sunnygarden.top/opensource/2016/08/05/android-open-source-project-recommend2/)
 
 ## Java学习
 
-[我的JAVA学习系列](http://sunnygarden.top/2016-02-11-get-started-java-1/)
+[我的JAVA学习系列](http://sunnygarden.top/Other/2016-02-11-get-started-java-1/)
 
 ## 数据结构
 
