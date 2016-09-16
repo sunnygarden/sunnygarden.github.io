@@ -9,17 +9,15 @@ categories: [Android]
 
 ## Android学习
 
-[我的安卓学习之旅](http://sunnygarden.top/other/2016/01/21/get-started-android-1/)
+[我的Android学习](http://sunnygarden.top/other/2016/01/21/get-started-android-1/)
 
 ## Java学习
 
-[我的JAVA学习系列](http://sunnygarden.top/other/2016/02/11/get-started-java-1/)
+[我的JAVA学习](http://sunnygarden.top/other/2016/02/11/get-started-java-1/)
 
 ## 数据结构
 
-[少年，别再收藏文章了！](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661932&idx=1&sn=8325f8bd782a376434a5bf69e4f38dee#rd)
-
-<!-- <a href="http://m.jianxun.io/event/2?from=sunnygarden"><img src="http://www.jianxun.io/ad/20151101/eventno2-sunnygarden-banner.png" /></a> -->
+[我的数据结构学习](http://sunnygarden.top/other/2016/01/21/get-started-base-subject/)
 
 ## 我的GitHub开源项目
 
