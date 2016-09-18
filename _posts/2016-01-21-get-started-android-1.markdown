@@ -24,14 +24,14 @@ keep learning!
 
 {% endhighlight %}
 
-## 3.厌倦学习
+## 3.热爱学习
 
-哈哈哈
+坚持就是胜利
 
 
 
 {% highlight ruby %}
 
-wan dan
+success
 
 {% endhighlight %}
