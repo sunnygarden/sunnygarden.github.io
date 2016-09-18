@@ -7,21 +7,21 @@ categories: [Android]
 ---
 {% include codepiano/setup %}
 
+## 面试经验
+
+[网易杭研Android研发面经](http://sunnygarden.top/interview/2016/09/16/get-started-find-job/)
+
+## 工具使用
+
+[Markdown快速入门](http://sunnygarden.top/utils/2016/09/17/get-started-useful-utils-1/)
+
 ## Android学习
 
 [我的Android学习](http://sunnygarden.top/other/2016/01/21/get-started-android-1/)
 
-## Java学习
-
-[我的JAVA学习](http://sunnygarden.top/other/2016/02/11/get-started-java-1/)
-
-## 数据结构
-
-[我的数据结构学习](http://sunnygarden.top/other/2016/01/21/get-started-base-subject/)
-
 ## 我的GitHub开源项目
 
-[secretPhone](https://github.com/sunnygarden/secretPhone)
+[blogProject](https://github.com/sunnygarden/sunnygarden.github.io.git)
 
 <br />
 
