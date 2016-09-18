@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # auto: true
 
 
-title : 小葵的博客花园
+title : sunnygarden
 tagline: cool coding girl
 author : sunnygarden
 name : sunnygarden
