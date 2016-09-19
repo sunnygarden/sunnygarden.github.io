@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Markdown快速入门"
+tags: [useful utils]
+categories: [utils]
+---
+
+
 　　刚接触Markdown，总结一些常用语法，希望能帮助一些像我一样的初学者快速入门。
 ####一、段落前面的空格
 输入法切换到全角，敲两次空格键
